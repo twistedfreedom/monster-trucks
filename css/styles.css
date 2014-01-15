@@ -1,0 +1,32 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+body{
+	background:black;
+}
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1{
+	background:black;
+	font-family: 'Jolly Lodger', cursive;
+	font-size:40px;
+	text-transform:capitalize;
+	color:red;
+}
+
+h3{
+	background:black;
+	font-family: 'Jolly Lodger', cursive;
+	font-size:30px;
+	text-transform:capitalize;
+	line-height: 10px;
+	color:red;
+
+}
+p{
+	color:red;
+
+}
